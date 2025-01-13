@@ -5,3 +5,7 @@
 # List Elements
 
 ![alt text](image-1.png)
+
+# Image Element
+
+![alt text](image.png)
